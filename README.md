@@ -1,5 +1,5 @@
-# PolNet2021
-Materials for PolNet 2021 Workshop on Text "Methods at the Intersection of Network and Text Analysis" led by Sarah Shugars. This repository includes all slides, code, and dataset used for the workshop. Below are instructions on how to use the included code yourself. There are two options depending on your comfort with Python:
+# PolNet 2022
+Materials for PolNet 2022 Workshop on Text "Methods at the Intersection of Network and Text Analysis" led by Sarah Shugars. This repository includes all slides, code, and dataset used for the workshop. Below are instructions on how to use the included code yourself. There are two options depending on your comfort with Python:
 1. If you are new to Python/don't have Python installed locally, you can use [Google Colab](https://drive.google.com/drive/folders/1SyKkUETUvmWZbpzYxn2aTKvZvWyWCyi3?usp=sharing) to run this code. This requires a Google account and is fully integrated with Google Docs.
 
 2. If you have have your own Python set up, you are welcome to download and run this code on your own machine.
